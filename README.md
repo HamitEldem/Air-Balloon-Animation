@@ -1,4 +1,4 @@
-# air-Balloon-Animation
+# Air-Balloon-Animation
 This animation with C implements the air ballon motion using OpenGL and GLUT, with animated graphical interface.
 
 # Functionalites of the program
