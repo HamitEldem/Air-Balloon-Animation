@@ -28,11 +28,10 @@
  // Shapes
 #define BALLOON   2
 
-// Global variables for Template File
+// Global variables 
 bool up = false, down = false, right = false, left = false;
 int  winWidth, winHeight; // Current Window width and height
 
-// Global variables
 int flag;
 bool activeTimer = true;
 int mode = BALLOON; // Initial shape is BALLOON
