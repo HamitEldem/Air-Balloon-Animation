@@ -202,8 +202,7 @@ void display() {
 
 
     //there are 4 glRectf functions because at first i planned to make 4 colored wall
-        //but then i changed my mind to make it 2 colored but i did not want to delete the //functions because i was afraid i would broke something
-
+        //but then i changed my mind to make it 2 colored but i did not want to delete the functions 
     glColor3f(0.9, 0.9, 0.8);
     glRectf(-winWidth / 2, -winHeight / 2, 0, 0);
 
